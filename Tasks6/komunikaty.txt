@@ -1,0 +1,6 @@
+Record s24555 stored successfuly
+{ name: 'Krystian', age: 25, sNumber: 's24555' }
+Record s24555 updated successfuly
+{ name: 'Krystian2', age: 60, sNumber: 's24555' }
+Record s24555 deleted successfuly
+s24555 not found in bucket students
